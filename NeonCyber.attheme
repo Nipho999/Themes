@@ -6,7 +6,7 @@ comment=Dark mode + neon accents + chat dividers!
 
 // ===== WALLPAPER (REQUIRED FOR IMAGE) ===== //
 // REPLACE WITH YOUR IMAGE URL (must be JPEG/PNG)!
-wallpaper=https://i.imgur.com/NeonCyberBG.jpg
+wallpaper=https://raw.githubusercontent.com/Nipho999/Themes/refs/heads/main/IMG_20250719_071135_642.jpg
 
 // ===== CORE COLORS ===== //
 backgroundColor=#ff000000       // Pure black background
