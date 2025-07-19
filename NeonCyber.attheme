@@ -1,30 +1,35 @@
-// ===== THEME NAME & META ===== //
-name=NeonCyber
-author=TBKR3B∅RN
+// ===== THEME METADATA ===== //
+name=Neon Cyber
+author=TBKR3BORN
 androidWallpaper=fill
-comment=Dark bubbles + neon accents for a cyberpunk vibe!
+comment=Dark mode + neon accents + chat dividers!
 
-// ===== WALLPAPER (Direct URL to image) ===== //
-wallpaper=https://ibb.co/VYgkBY3L
+// ===== WALLPAPER (REQUIRED FOR IMAGE) ===== //
+// REPLACE WITH YOUR IMAGE URL (must be JPEG/PNG)!
+wallpaper=https://i.imgur.com/NeonCyberBG.jpg
 
 // ===== CORE COLORS ===== //
-backgroundColor=#ff121212       // Deep dark background
-textColor=#ffffffff            // Pure white text
+backgroundColor=#ff000000       // Pure black background
+textColor=#ffffffff            // White text
 accentColor=#ff00f0ff          // Neon cyan accent
-headerColor=#ff181818          // Slightly lighter header
+headerColor=#ff111111          // Slightly lighter header
 
-// ===== DARKER CHAT BUBBLES ===== //
-chatOutBubbleColor=#ff003366    // Dark blue sent bubbles
-chatOutBubbleSelectedColor=#ff002244  
-chatInBubbleColor=#ff222222     // Dark gray received bubbles
-chatInBubbleSelectedColor=#ff333333  
+// ===== CHAT BUBBLES (DARK) ===== //
+chatOutBubbleColor=#ff002233    // Dark blue sent bubbles
+chatOutBubbleSelectedColor=#ff001122  
+chatInBubbleColor=#ff1a1a1a     // Dark gray received bubbles
+chatInBubbleSelectedColor=#ff252525  
 
-// ===== NEON ACCENTS ===== //
+// ===== NEON GLOW ELEMENTS ===== //
 buttonColor=#ff00f0ff          // Neon cyan buttons
 tabActiveTextColor=#ff00f0ff    // Glowing active tab
-tabInactiveTextColor=#6600f0ff  // Semi-transparent inactive tab
-emojiPanelBackground=#ff0a0a0a  // Dark emoji panel
-
-// ===== EXTRA GLOW ===== //
-linkColor=#ff00aaff             // Bright blue links
+linkColor=#ff00aaff            // Bright blue links
 unreadBadgeActiveBackground=#ff00f0ff  // Neon notification badge
+
+// ===== CHAT SEPARATORS (LINES) ===== //
+dividerColor=#ff333333          // Gray divider lines
+sectionHeaderTextColor=#ff00f0ff  // Neon section headers
+
+// ===== EXTRA NEON TOUCHES ===== //
+emojiPanelBackground=#ff0a0a0a  // Dark emoji panel
+playerProgress=#ff00f0ff        // Neon progress bars
