@@ -1,0 +1,30 @@
+// ===== THEME NAME & META ===== //
+name=Neon Dark
+author=TBKR3B∅RN
+androidWallpaper=fill
+comment=Dark bubbles + neon accents for a cyberpunk vibe!
+
+// ===== WALLPAPER (Direct URL to image) ===== //
+wallpaper=https://ibb.co/VYgkBY3L
+
+// ===== CORE COLORS ===== //
+backgroundColor=#ff121212       // Deep dark background
+textColor=#ffffffff            // Pure white text
+accentColor=#ff00f0ff          // Neon cyan accent
+headerColor=#ff181818          // Slightly lighter header
+
+// ===== DARKER CHAT BUBBLES ===== //
+chatOutBubbleColor=#ff003366    // Dark blue sent bubbles
+chatOutBubbleSelectedColor=#ff002244  
+chatInBubbleColor=#ff222222     // Dark gray received bubbles
+chatInBubbleSelectedColor=#ff333333  
+
+// ===== NEON ACCENTS ===== //
+buttonColor=#ff00f0ff          // Neon cyan buttons
+tabActiveTextColor=#ff00f0ff    // Glowing active tab
+tabInactiveTextColor=#6600f0ff  // Semi-transparent inactive tab
+emojiPanelBackground=#ff0a0a0a  // Dark emoji panel
+
+// ===== EXTRA GLOW ===== //
+linkColor=#ff00aaff             // Bright blue links
+unreadBadgeActiveBackground=#ff00f0ff  // Neon notification badge
